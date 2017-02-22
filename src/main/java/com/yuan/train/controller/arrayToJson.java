@@ -35,7 +35,7 @@ public class arrayToJson {
         
         Map<String, String> map = new HashMap<String, String>();
         
-        map.put("192.1.1.1", "test1");
+        map.put("192.1.1.1", "test1"); 
         map.put("192.1.1.2", "test2");
         map.put("192.1.1.3", "test3");
         
