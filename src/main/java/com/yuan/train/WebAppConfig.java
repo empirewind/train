@@ -36,7 +36,7 @@ public class WebAppConfig extends WebMvcAutoConfigurationAdapter {
      */
     public static void main(String[] args) {
         SpringApplication.run(WebAppConfig.class, args);
-        System.out.println("这是一个spring boot应用");
+        System.out.println("这是一个spring boot应用"); 
     }
 
 }
