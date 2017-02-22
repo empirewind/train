@@ -22,4 +22,7 @@ package com.yuan.train.controller;
 
 public class test {
 
+    public static void main(String[] args) {
+        
+    }
 }
