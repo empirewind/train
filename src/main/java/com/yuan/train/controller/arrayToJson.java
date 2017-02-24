@@ -38,6 +38,8 @@ public class arrayToJson {
         map.put("192.1.1.1", "test1"); 
         map.put("192.1.1.2", "test2");
         map.put("192.1.1.3", "test3");
+        map.put("192.1.1.4", "test3");
+        
         
       String aString = JSON.toJSONString(map);
         System.out.println(aString);
